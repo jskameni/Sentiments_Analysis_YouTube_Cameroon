@@ -2,3 +2,5 @@
 This project analyzes sentiments and emotions of Cameroonians using YouTube comments on a sample of channels in Cameroon.
 You should add the CameroonNewsChannels.csv file to the root of the project, then run each script to completion.
 
+You also need your YouTubeAPIV3 api key indicated in the API_KEY variable at the beginning of the code.
+
